@@ -1,0 +1,20 @@
+body{
+    background-color: #fce3dc;
+    color: #ffc629;
+    margin: 0;
+}
+header{
+    background-color: #fce3dc;
+    color: #ff3849;
+    text-align: center;
+    padding: 30px;
+}
+nav{
+    background-color: #fcce9f;
+    text-align: center;
+    padding: 15px
+}
+nav a{
+    color:#ffa51f;
+    
+}
