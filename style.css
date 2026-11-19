@@ -24,6 +24,9 @@ nav a:hover{
 h2{
     color: #ff1f35;
 }
+.imagen-centrada{
+    text-align: center;
+}
 img{
     max-width: 100%;
     height: auto;
