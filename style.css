@@ -22,13 +22,17 @@ nav a:hover{
     text-decoration: underline;
 }
 h1{
-    font-size: 30px;
+    font-size: 40px;
 }
 h2{
     color: #ff1f35;
 }
 h3{
-    color: #ff1f35;
+    color: #ffbc1f;
+}
+p{
+    color: #fce3dc;
+    font-size: 20px;
 }
 .imagen-centrada{
     text-align: center;
